@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:0,Globo RJ HD
 http://79.127.238.228:14217/
-#EXTINF:0,Globo RJ HD²
+#EXTINF:66,Globo RJ HD²
 http://new.m3u8.one/globorj/index.m3u8
 #EXTINF:0,Globo SP HD
 http://79.127.238.228:14211/
@@ -33,121 +33,37 @@ http://15.235.50.115:14522/
 https://cr7v.short.gy/25mensais/s2/Whats7591634025.m3u8
 #EXTINF:66,SporTV HD
 http://new.m3u8.one/sportv/index.m3u8
-#EXTINF:0,SporTV FHD²
-https://cr7v.short.gy/manoiTVOP3/sptvxtra2/75991634025/index.m3u8%20
-#EXTINF:0,SporTV 2 HD
+#EXTINF:66,SporTV 2 HD
 http://new.m3u8.one/sportv2/index.m3u8
-#EXTINF:0,SporTV 3 HD
+#EXTINF:66,SporTV 3 HD
 http://new.m3u8.one/sportv3/index.m3u8
-#EXTINF:-1,[BR] Premiere 2 FHD
-http://supersonictv.live:8080/899559/316805/85062
-#EXTINF:-1,[BR] Premiere 3 FHD
-http://supersonictv.live:8080/899559/316805/85063
-#EXTINF:-1,[BR] Premiere 4 FHD
-http://supersonictv.live:8080/899559/316805/85064
-#EXTINF:-1,[BR] Premiere 5 FHD
-http://supersonictv.live:8080/899559/316805/85065
-#EXTINF:-1,[BR] Premiere 6 FHD
-http://supersonictv.live:8080/899559/316805/85066
-#EXTINF:-1,[BR] Premiere 7 FHD
-http://supersonictv.live:8080/899559/316805/85067
-#EXTINF:-1,[BR] Premiere Clubes FHD
-http://supersonictv.live:8080/899559/316805/85068
-#EXTINF:-1 group-title="Brazil ➾ Football" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/b5e27276ad261e52a66167b0ea08521f.png",Premiere FC 1
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/8785
-#EXTINF:-1 group-title="Brazil ➾ Football" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/8e89f233ee5c27419e427a9a1d7a3ac3.png",Premiere FC 2
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/8786
-#EXTINF:-1 group-title="Brazil ➾ Football" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/dbf8357765c676043e8305d199ee7a8d.png",Premiere FC 3
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/8787
-#EXTINF:-1 group-title="Brazil ➾ Football" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/6d1777d9b0fa66337bdf19a0025cab6a.png",Premiere FC 4
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/8788
-#EXTINF:-1 group-title="Brazil ➾ Football" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/f86fbf59b55119969d8988c445b9fb2e.png",Premiere FC 5
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/8790
-#EXTINF:-1 group-title="Brazil ➾ Football" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/644bdf62e752682dfbd2a7ac83b8f441.png",Premiere FC 6
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/8791
-#EXTINF:-1 group-title="Brazil ➾ Football" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/644bdf62e752682dfbd2a7ac83b8f441.png",Premiere FC 7
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/8798
-#EXTINF:-1 group-title="Brazil ➾ Sports" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",DAZN 2
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/173429
-#EXTINF:-1 group-title="Brazil ➾ Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-08/9df70541246da4f2f9a65296dc2d5604.png",ESPN
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/8793
-#EXTINF:-1 group-title="Brazil ➾ Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-08/68e11cc20e6cca405eeafe623b2bfdde.png",ESPN 2
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/8801
-#EXTINF:-1 group-title="Brazil ➾ Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/d4eadd237437bdfc6f611165eb5891c8.png",ESPN 3
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/290657
-#EXTINF:-1 group-title="Brazil ➾ Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/7b06a5762fbd3254392827b6c7fd411d.svg",ESPN 4
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/299345
-#EXTINF:-1 group-title="Brazil ➾ Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-08/280bbb819713bcee901695466ef9320a.png",ESPN Extra
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/8789
-#EXTINF:-1 group-title="Brazil ➾ Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-08/2c324e02d5a437786a2e0e9657c52501.png",FOX SPORTS
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/8780
-#EXTINF:-1 group-title="Brazil ➾ Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-08/803eff84acc7ba0bbdb7301cce19b54d.png",FOX SPORTS 2
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/8776
-#EXTINF:-1 group-title="Brazil ➾ Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/6eafe5012b43973f31c5ee0b648e0594.png",SPORTV
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/4015
-#EXTINF:-1 group-title="Brazil ➾ Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/2f163193ab2de12c120e02e264bc16a7.png",SPORTV 2
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/8783
-#EXTINF:-1 group-title="Brazil ➾ Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/50dc54d140bb68ee92fc1aa01bec5bb5.png",SPORTV 3
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/8784
-#EXTINF:-1,[BR] Premiere 2 FHD
-http://supersonictv.live:8080/899559/316805/85062
-#EXTINF:-1,[BR] Premiere 3 FHD
-http://supersonictv.live:8080/899559/316805/85063
-#EXTINF:-1,[BR] Premiere 4 FHD
-http://supersonictv.live:8080/899559/316805/85064
-#EXTINF:-1,[BR] Premiere 5 FHD
-http://supersonictv.live:8080/899559/316805/85065
-#EXTINF:-1,[BR] Premiere 6 FHD
-http://supersonictv.live:8080/899559/316805/85066
-#EXTINF:-1,[BR] Premiere 7 FHD
-http://supersonictv.live:8080/899559/316805/85067
-#EXTINF:-1,[BR] Premiere Clubes FHD
-http://supersonictv.live:8080/899559/316805/85068
-#EXTINF:-1 tvg-id="" tvg-name="[BR] Premiere 2 FHD" tvg-logo="" group-title="BRAZIL",[BR] Premiere 2 FHD
-http://supersonictv.live:8080/812493/376688/85062
-#EXTINF:-1 tvg-id="" tvg-name="[BR] Premiere 3 FHD" tvg-logo="" group-title="BRAZIL",[BR] Premiere 3 FHD
-http://supersonictv.live:8080/812493/376688/85063
-#EXTINF:-1 tvg-id="" tvg-name="[BR] Premiere 4 FHD" tvg-logo="" group-title="BRAZIL",[BR] Premiere 4 FHD
-http://supersonictv.live:8080/812493/376688/85064
-#EXTINF:-1 tvg-id="" tvg-name="[BR] Premiere 5 FHD" tvg-logo="" group-title="BRAZIL",[BR] Premiere 5 FHD
-http://supersonictv.live:8080/812493/376688/85065
-#EXTINF:-1 tvg-id="" tvg-name="[BR] Premiere 6 FHD" tvg-logo="" group-title="BRAZIL",[BR] Premiere 6 FHD
-http://supersonictv.live:8080/812493/376688/85066
-#EXTINF:-1 tvg-id="" tvg-name="[BR] Premiere 7 FHD" tvg-logo="" group-title="BRAZIL",[BR] Premiere 7 FHD
-http://supersonictv.live:8080/812493/376688/85067
-#EXTINF:-1 tvg-id="" tvg-name="[BR] Premiere Clubes FHD" tvg-logo="" group-title="BRAZIL",[BR] Premiere Clubes FHD
-http://supersonictv.live:8080/812493/376688/85068
-#EXTINF:-1 tvg-id="" tvg-name="BR| PREMIERE 1 HD" tvg-logo="https://lo1.in/BR/prme.png" group-title="AM | BRAZIL HD",BR| PREMIERE 1 HD
+#EXTINF:59,BR| PREMIERE 1 HD
 http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162468.m3u8
-#EXTINF:-1 tvg-id="premiere2.br" tvg-name="BR| PREMIERE 2 HD" tvg-logo="https://lo1.in/BR/prme2.png" group-title="AM | BRAZIL HD",BR| PREMIERE 2 HD
+#EXTINF:60,BR| PREMIERE 2 HD
 http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/331246.m3u8
-#EXTINF:-1 tvg-id="premiere3.br" tvg-name="BR| PREMIERE 3 HD" tvg-logo="https://lo1.in/BR/prme3.png" group-title="AM | BRAZIL HD",BR| PREMIERE 3 HD
+#EXTINF:60,BR| PREMIERE 3 HD
 http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/331247.m3u8
-#EXTINF:-1 tvg-id="premiere4.br" tvg-name="BR| PREMIERE 4 HD" tvg-logo="https://lo1.in/BR/prme.png" group-title="AM | BRAZIL HD",BR| PREMIERE 4 HD
+#EXTINF:60,BR| PREMIERE 4 HD
 http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162471.m3u8
-#EXTINF:-1 tvg-id="premiere5.br" tvg-name="BR| PREMIERE 5 HD" tvg-logo="https://lo1.in/BR/prme.png" group-title="AM | BRAZIL HD",BR| PREMIERE 5 HD
+#EXTINF:60,BR| PREMIERE 5 HD
 http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/331248.m3u8
-#EXTINF:-1 tvg-id="premiere6.br" tvg-name="BR| PREMIERE 6 HD" tvg-logo="https://lo1.in/BR/prme.png" group-title="AM | BRAZIL HD",BR| PREMIERE 6 HD
+#EXTINF:60,BR| PREMIERE 6 HD
 http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/331249.m3u8
-#EXTINF:-1 tvg-id="premiere7.br" tvg-name="BR| PREMIERE 7 HD" tvg-logo="https://lo1.in/BR/prme7.png" group-title="AM | BRAZIL HD",BR| PREMIERE 7 HD
+#EXTINF:62,BR| PREMIERE 7 HD
 http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/400230122.m3u8
-#EXTINF:-1,Tr- Bein Movies PREMIERE HD
-http://m-iptv.net:6204/live/miran/123/15619.m3u8
-#EXTINF:-1,Tr- Bein Movies PREMIERE HD 2
-http://m-iptv.net:6204/live/miran/123/15618.m3u8
 #EXTINF:0,ESPN SD
 http://185.236.183.118:14177/
 #EXTINF:0,ESPN HD
 http://185.236.183.118:14180/
 #EXTINF:0,ESPN FHD
 http://185.236.183.118:14179/
-#EXTINF:0,ESPN FHD²
+#EXTINF:66,ESPN FHD²
 http://new.m3u8.one:80/espn/index.m3u8
-#EXTINF:0,ESPN 2 HD
+#EXTINF:66,ESPN 2 HD
 http://new.m3u8.one/espn2/index.m3u8
 #EXTINF:0,ESPN 2 FHD
 http://185.236.183.118:14181/
-#EXTINF:0,ESPN 3 HD 
+#EXTINF:66,ESPN 3 HD 
 http://new.m3u8.one/espn3/index.m3u8
 #EXTINF:0,ESPN 3 FHD
 http://185.236.183.118:14185/
@@ -155,13 +71,13 @@ http://185.236.183.118:14185/
 http://185.236.183.118:14191/
 #EXTINF:0,ESPN 6 HD 
 http://185.236.183.118:14193/
-#EXTINF:0,Band Sports HD
+#EXTINF:66,Band Sports HD
 http://new.m3u8.one/bandsport/index.m3u8
-#EXTINF:0,Auto TV
+#EXTINF:6,Auto TV
 https://cdn.live.br1.jmvstream.com/webtv/txsneccr/playlist/playlist.m3u8
 #EXTINF:0,Combate HD
 http://79.127.238.233:14408/
-#EXTINF:0,UFC Fightpass HD
+#EXTINF:32,UFC Fightpass HD
 http://new.m3u8.one:80/ufcfightpass/index.m3u8
 #EXTINF:0,UFC Fightpass FHD
 http://huloftibu.lol:80/512451218/561575450/550621
@@ -169,11 +85,11 @@ http://huloftibu.lol:80/512451218/561575450/550621
 http://huloftibu.lol:80/512451218/561575450/550622
 #EXTINF:0,UFC Fightpass 2
 http://huloftibu.lol:80/512451218/561575450/1824531
-#EXTINF:0,CazéTV HD
+#EXTINF:59,CazéTV HD
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/720p-vtt/index.m3u8
-#EXTINF:0,CazéTV FHD
+#EXTINF:54,CazéTV FHD
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
-#EXTINF:0,Esportes Brasília 
+#EXTINF:27,Esportes Brasília 
 https://a.cdni.live/radioesporte/radioesporte/chunklist_w1002148111.m3u8?ManoTV
 #EXTINF:0,ManoFUT
 https://cr7v.short.gy/Mano/testchamaWhats75991634025.m3u8
@@ -181,15 +97,15 @@ https://cr7v.short.gy/Mano/testchamaWhats75991634025.m3u8
 https://cr7v.short.gy/mano2/testchamaWhats75991634025.m3u8
 #EXTINF:0,ManoFUT 3
 https://cr7v.short.gy/mano3/testchamaWhats75991634025.m3u8
-#EXTINF:0,ManoFUT 4
+#EXTINF:60,ManoFUT 4
 https://cr7v.short.gy/mano4/testchamaWhats75991634025.m3u8
-#EXTINF:0,ManoFUT 5
+#EXTINF:3779,ManoFUT 5
 https://cr7v.short.gy/mano5/testchamaWhats75991634025.m3u8
-#EXTINF:0,ManoFUT 6
+#EXTINF:22,ManoFUT 6
 https://cr7v.short.gy/mano6/testechamaWhats75991634025.m3u8
 #EXTINF:0,ManoFUT 7
 https://cr7v.short.gy/JOG7/testechamaWhats75991634025.m3u8
-#EXTINF:0,ManoFUT 8
+#EXTINF:32,ManoFUT 8
 https://cr7v.short.gy/live/JOGOO8/Index.m3u8
 #EXTINF:0,ManoFUT 9
 https://cr7v.short.gy/JOG9/testechamaWhats75991634025.m3u8
@@ -207,97 +123,37 @@ https://cr7v.short.gy/Mano/testchamaWhats75991634025.m3u8
 https://cr7v.short.gy/mano2/testchamaWhats75991634025.m3u8
 #EXTINF:0,Liberta 7
 https://cr7v.short.gy/mano3/testchamaWhats75991634025.m3u8
-#EXTINF:0,Liberta 8
+#EXTINF:60,Liberta 8
 https://cr7v.short.gy/mano4/testchamaWhats75991634025.m3u8
 #EXTINF:0,Nosso Futebol 2
 http://15.235.9.200:14069/
 #EXTINF:0,Paramount+ HD
 http://185.236.183.118:14040/
-#EXTINF:0,Times Brasil | CNBC
+#EXTINF:30,Times Brasil | CNBC
 https://cr7v.short.gy/ManoTV/TimesBrasil/Whats75991634025/CNBC/Index.m3u8
-#EXTINF:0,Times Brasil | CNBC
+#EXTINF:25,Times Brasil | CNBC
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/679a973a97782f0008ff4bb6livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
-#EXTINF:0,Canal Brasil HD
-http://pfsv.io:80/6783460679/1233/322.ts
-#EXTINF:0,Motorvision FHD
+#EXTINF:120,Motorvision FHD
 https://mvg-mv-pt.otteravision.com/mvg/mv_pt/mv_pt.m3u8
 #EXTINF:0,Motorvision |PT HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2182
-#EXTINF:0,Auto TV
+#EXTINF:6,Auto TV
 https://cdn.live.br1.jmvstream.com/webtv/txsneccr/playlist/playlist.m3u8
 #EXTINF:0,VITRINE ESPORTIVA
 https://cdn.jmvstream.com/w/AVJ-12930/playlist/chunklist.m3u8
-#EXTINF:0,SportTV 1 HD
-http://fonte.lista.luxe:80/iptvgood/101011/7438
-#EXTINF:0,SportTV 1 FHD
-http://fonte.lista.luxe:80/iptvgood/101011/7439
-#EXTINF:0,SportTV 2 HD
-http://fonte.lista.luxe:80/iptvgood/101011/7436
-#EXTINF:0,SportTV 2 FHD
-http://fonte.lista.luxe:80/iptvgood/101011/7435
-#EXTINF:0,SportTV 3 HD
-http://fonte.lista.luxe:80/iptvgood/101011/7432
-#EXTINF:0,SportTV 3 FHD
-http://fonte.lista.luxe:80/iptvgood/101011/7433
-#EXTINF:0,SportTV 4 HD
-http://fonte.lista.luxe:80/iptvgood/101011/7429
-#EXTINF:0,SportTV 4 FHD
-http://fonte.lista.luxe:80/iptvgood/101011/7430
-#EXTINF:0,SportTV 5 HD
-http://fonte.lista.luxe:80/iptvgood/101011/7426
-#EXTINF:0,SportTV 5 FHD
-http://fonte.lista.luxe:80/iptvgood/101011/7427
-#EXTINF:0,Eleven sports 1 HD
-http://fonte.lista.luxe:80/iptvgood/101011/7458
-#EXTINF:0,Eleven sports 1 FHD
-http://fonte.lista.luxe:80/iptvgood/101011/7459
-#EXTINF:0,Eleven sports 2 HD
-http://fonte.lista.luxe:80/iptvgood/101011/7455
-#EXTINF:0,Eleven sports 2 FHD
-http://fonte.lista.luxe:80/iptvgood/101011/7456
-#EXTINF:0,Eleven sports 3 HD
-http://fonte.lista.luxe:80/iptvgood/101011/7452
-#EXTINF:0,Eleven sports 3 FHD
-http://fonte.lista.luxe:80/iptvgood/101011/7453
-#EXTINF:0,Eleven sports 4 HD
-http://fonte.lista.luxe:80/iptvgood/101011/7450
-#EXTINF:0,Eleven sports 4 FHD
-http://fonte.lista.luxe:80/iptvgood/101011/7449
-#EXTINF:0,Eleven sports 5 HD
-http://fonte.lista.luxe:80/iptvgood/101011/7446
-#EXTINF:0,Eleven sports 5 FHD
-http://fonte.lista.luxe:80/iptvgood/101011/7447
-#EXTINF:0,Eleven sports 6 HD
-http://fonte.lista.luxe:80/iptvgood/101011/7443
-#EXTINF:0,Eleven sports 6 FHD
-http://fonte.lista.luxe:80/iptvgood/101011/7444
-#EXTINF:0,LA LIGA
+#EXTINF:60,LA LIGA
 https://d3bb58xoj568xi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-don7i7nmbho0q/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=ESBD3600001Q1
-#EXTINF:0,FIFA+
-https://8deea4ad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1lc19GSUZBUGx1c19ITFM/playlist.m3u8?ads.wurl_channel=1460&ads.wurl_name=FIFAPlus&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:0,COMBATE GLOBAL
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
-#EXTINF:0,PFL MMA
-https://r.mjh.nz/PlutoTV/64f6180130ab3300083d896b-alt.m3u8
-#EXTINF:0,LUCHA LIBRE
+#EXTINF:25,LUCHA LIBRE
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f99a772c54853000797bf18/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0,FIGHT
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:0,COMBATV
+#EXTINF:60,COMBATV
 https://aym-cbtv.otteravision.com/aym/cbtv/cbtv_480p.m3u8
-#EXTINF:0,FITE
-https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_480/chunks.m3u8
-#EXTINF:0,SFT Combat
+#EXTINF:25,SFT Combat
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6660b636cb3ea10008429c6alivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
-#EXTINF:0,DAZN Women's Football
-https://stitcher-ipv4.pluto.tv/v2/stitch/hls/channel/64b02be14ea480000831ec78livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&masterJWTPassthrough=true&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImM4YTY1NDk2LTczZmQtNDI4Ni1hNWY3LTMyMDMzYzQzNmI2NSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI5NGU2YTcwNi1iM2Q2LTExZWYtYTYxOS0zMjI4ZmM2MTY1NmYiLCJjbGllbnRJUCI6IjE3Ny4xOTIuMjU1LjM4IiwiY2l0eSI6IlJpbyBEZSBKYW5laXJvIiwicG9zdGFsQ29kZSI6IjIxNTQ1LTMyMCIsImNvdW50cnkiOiJCUiIsImRtYSI6NzYwMDgsImFjdGl2ZVJlZ2lvbiI6IkJSIiwiZGV2aWNlTGF0IjotMjIuODQwMDAwMTUyNTg3ODksImRldmljZUxvbiI6LTQzLjM0MDAwMDE1MjU4Nzg5LCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVuIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMTQuMC4wIiwiZGV2aWNlTWFrZSI6IkNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI3LjIuMC01N2U5YTk2ZmU3ZjY2MzU0ZGU3OTU3ZWZmZjIwZjQ2OWU2NzcyNDA0IiwiY2xpZW50SUQiOiI1MGNiYTdiNi02MjRmLTNmYTktOTRmMS00MTdlYTQ0ZmY2OWUiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9TYW9fUGF1bG8iLCJzZXJ2ZXJTaWRlQWRzIjpmYWxzZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImVuYWJsZWQiOnRydWV9fSwiZm1zUGFyYW1zIjp7ImZ3VmNJRDIiOiI1MGNiYTdiNi02MjRmLTNmYTktOTRmMS00MTdlYTQ0ZmY2OWUiLCJmd1ZjSUQyQ29wcGEiOiI1MGNiYTdiNi02MjRmLTNmYTktOTRmMS00MTdlYTQ0ZmY2OWUiLCJjdXN0b21QYXJhbXMiOnsiZm1zX2xpdmVyYW1wX2lkbCI6IiIsImZtc19lbWFpbGhhc2giOiIiLCJmbXNfc3Vic2NyaWJlcmlkIjoiIiwiZm1zX2lmYSI6IiIsImZtc19pZGZ2IjoiIiwiZm1zX3VzZXJpZCI6IjUwY2JhN2I2LTYyNGYtM2ZhOS05NGYxLTQxN2VhNDRmZjY5ZSIsImZtc192Y2lkMnR5cGUiOiJ1c2VyaWQiLCJmbXNfcmFtcF9pZCI6IiIsImZtc19oaF9yYW1wX2lkIjoiIiwiZm1zX2JpZGlkdHlwZSI6IiIsIl9md18zUF9VSUQiOiIiLCJmbXNfcnVsZWlkIjoiMTAwMTUsMTAwMTYsMTAwMjAsMTAwMDAsMTAwMDksMTAwMDMsMTAwMTMsMTAwMTQifX0sImRybSI6eyJuYW1lIjoid2lkZXZpbmUiLCJsZXZlbCI6IkwzIn0sImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpCUjpOVEJqWW1FM1lqWXROakkwWmkwelptRTVMVGswWmpFdE5ERTNaV0UwTkdabU5qbGwiLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzMzNTc4MzY3LCJpYXQiOjE3MzM0OTE5NjcsImp0aSI6IjgwMzNiNjc3LTA5NjItNGFjMi05ZjkyLWM5M2UwYjM2OWMzZCJ9.58sb54osDwBegYQ-dMU3Kf_clDww7bXKx1ZlNPouvJ8&profilesFromStream=true
-#EXTINF:0,uniqueTV Sports
+#EXTINF:24,uniqueTV Sports
 https://pop.uniquetv.com.br/uniquetv/index.fmp4.m3u8
-#EXTINF:0,uniqueTV Sports
-https://srv4.zcast.com.br/tvcultural/tvcultural/playlist.m3u8
 #EXTINF:0,National Sports Channel 
 https://cdn-2.nxplay.com.br/PLAYOUT_02_NSC/index.m3u8
-#EXTINF:0,OFF
-https://8mwx.short.gy/CANALOFF/index.m3u8
-#EXTINF:0,Realmadrid TV
+#EXTINF:25,Realmadrid TV
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63dac28760bc8f0008a7654blivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
